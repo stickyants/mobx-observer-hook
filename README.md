@@ -45,5 +45,3 @@ render(
 2. If you're passing other properties (non-observable properties), make sure 
    you add those to the list of dependencies to ensure component is updated
    accordingly. 
-
-## License 
